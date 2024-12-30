@@ -14,9 +14,9 @@ Hi there! 👋<br><br>I'm currently working on my own projects and continuously 
 
 <!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Davepool-00&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
-
+<!-- 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Davepool-00&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Davepool-00&limit=5&theme=dark&combine_all_yearly_contributions=true)-->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Davepool-00&icon=10&color=13)](https://visitcount.itsvg.in)
